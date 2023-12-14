@@ -3,10 +3,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vinicius+Meurer;Estou+cursando+Engenharia+de+Software;Atualmente+trabalho+com+testes+de+software;Seja+bem+vindo!+:%29)
 
 
-<div>
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=vinimeurer&theme=transparent&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&hide_border=true" />
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimeurer&layout=donut-vertical&langs_count=8&card_width=320&theme=transparent&locale=pt-br&hide_border=true" />
-</div>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=vinimeurer&theme=transparent&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&hide_border=false" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimeurer&layout=donut-vertical&langs_count=8&card_width=320&theme=transparent&locale=pt-br&hide_border=false" />
+</a>
 
 
 <div align="center" style="display: inline_block"><br>
