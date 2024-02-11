@@ -12,19 +12,23 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimeurer&layout=donut-vertical&langs_count=8&card_width=320&theme=transparent&locale=pt-br&hide_border=true" />
 </a>
 
-
 <div align="center" style="display: inline_block"><br>
-  <h3>Melhores tecnologias</h3>
-  <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <h3>linguagens e frameworks</h3>
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,js,py,selenium,bootstrap" />
+    </a>
+</p>
 </div>
 
+
 <div align="center" style="display: inline_block"><br>
-  <h3>Ferramentas</h3>
-  <img align="center" height="30" width="40" alt="vscode-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <h3>Melhores ferramentas</h3>
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,mysql,sqlite" />
+    </a>
+</p>
 </div>
 
 
