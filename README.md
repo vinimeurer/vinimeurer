@@ -14,16 +14,19 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <h3>Melhores tecnologias e ferramentas </h3>
+  <h3>Melhores tecnologias</h3>
   <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="selenium-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <h3>Ferramentas</h3>
+  <img align="center" height="30" width="40" alt="vscode-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" height="30" width="40" alt="sqlite-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg>
+  <img align="center" height="30" width="40" alt="sqlite-icon" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/git/git-original.svg>
 </div>
 
 
