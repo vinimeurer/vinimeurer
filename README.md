@@ -25,8 +25,6 @@
   <h3>Ferramentas</h3>
   <img align="center" height="30" width="40" alt="vscode-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" height="30" width="40" alt="sqlite-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg>
-  <img align="center" height="30" width="40" alt="sqlite-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
 </div>
 
 
