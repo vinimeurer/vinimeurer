@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vinicius;Estou+cursando+Engenharia+de+Software;Atualmente+trabalho+com+Python+e+Engenharia+de+Dados;Seja+bem+vindo!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vinicius;Atuo+como+Data+Engineer+e+AI+Engineer;Trabalho+com+Python,+Dados,+LLMs+e+Agentes+em+Cloud;Seja+Bem-vindo!)
+
+
 
 
 ## Sobre Mim
