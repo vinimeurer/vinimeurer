@@ -6,21 +6,23 @@
 
 
 ## Sobre Mim
-🔭 Engenheiro de Dados com experiência em automação de processos e integração de dados para sistemas de grande escala, utilizando técnicas avançadas de Python e SQL.
 
-💡 Especialista em automação de coleta e transformação de dados, web scraping e pipelines ETL, com foco em otimização de processos e redução de custos.
-
-
-🎨 Habilidades avançadas em visualização de dados e criação de dashboards interativos com ferramentas como Dash, Plotly, Pandas e integração com APIs RESTful, oferecendo insights rápidos e decisões mais informadas.
+🔭 Data Engineer & AI Engineer atuando no desenvolvimento de pipelines de dados escaláveis e soluções de IA aplicadas a contextos corporativos, com foco em automação analítica e eficiência operacional.
 
 
-📊 Experiência em trabalhar com grandes volumes de dados, melhorando a integridade e a qualidade através de governança e validação, resultando em mais de 80% de eficiência nas operações de dados.
+🤖 Experiência prática no desenvolvimento de agentes de IA e aplicações baseadas em LLMs, integrando dados estruturados e não estruturados para acelerar a geração de insights e suportar decisões de negócio.
 
 
-🌱 Profundo conhecimento em modelagem de dados, bancos de dados relacionais (MySQL, PostgreSQL, SQL Server) e plataformas de nuvem (AWS, Azure).
+📊 Atuação com grandes volumes de dados, garantindo qualidade, governança e confiabilidade por meio de pipelines robustos em Python, SQL, PySpark e Databricks.
 
 
-✨ Entusiasta de automação e integração de sistemas, com forte foco na resolução de problemas e na melhoria contínua de processos.
+☁️ Vivência em ambientes cloud (Azure e AWS), implementando soluções de armazenamento, processamento distribuído, CI/CD e integração de dados em escala.
+
+
+🧠 Forte colaboração com áreas de negócio, traduzindo demandas estratégicas em soluções técnicas escaláveis.
+
+
+🚀 Perfil orientado a impacto, com foco em automação, melhoria contínua de processos e uso inteligente de dados e IA para resolver problemas complexos.
 
 <br>
 
