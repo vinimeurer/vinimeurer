@@ -30,29 +30,33 @@
 
 <div align="center" style="display: inline_block"><br>
   <div>
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-    <img align="center" alt="html-icon" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-    
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img align="center" alt="pyspark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img align="center" alt="spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="sqlserver" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img align="center" alt="azurecosmosdb" src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="rest api" src="https://img.shields.io/badge/APIs%20REST-000000?style=for-the-badge&logo=rest&logoColor=white">
+    <img align="center" alt="sqlalchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+    <img align="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img align="center" alt="azure" src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="azure ai foundry" src="https://img.shields.io/badge/Azure%20AI%20Foundry-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="azure ai search" src="https://img.shields.io/badge/Azure%20AI%20Search-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="blob storage" src="https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="adls" src="https://img.shields.io/badge/ADLS-0089D6?style=for-the-badge&logo=azure&logoColor=white">
+    <img align="center" alt="unity catalog" src="https://img.shields.io/badge/Unity%20Catalog-0089D6?style=for-the-badge&logo=databricks&logoColor=white">
+    <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="github actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </div>
 </div>
+
 
 <br>
 
